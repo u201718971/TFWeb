@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\bin\Debug\netcoreapp2.2\model.deps.json
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\bin\Debug\netcoreapp2.2\model.dll
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\bin\Debug\netcoreapp2.2\model.pdb
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\obj\Debug\netcoreapp2.2\model.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\obj\Debug\netcoreapp2.2\model.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\obj\Debug\netcoreapp2.2\model.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\obj\Debug\netcoreapp2.2\model.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\obj\Debug\netcoreapp2.2\model.dll
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\obj\Debug\netcoreapp2.2\model.pdb
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\bin\Debug\netcoreapp2.2\model.runtimeconfig.json
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\model\bin\Debug\netcoreapp2.2\model.runtimeconfig.dev.json

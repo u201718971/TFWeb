@@ -1,0 +1,2 @@
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\services\obj\Debug\services.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Web\TF_Web\TF_Web\services\obj\Debug\services.csproj.CoreCompileInputs.cache
